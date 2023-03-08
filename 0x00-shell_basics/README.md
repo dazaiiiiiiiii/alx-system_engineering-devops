@@ -1,1 +1,2 @@
-yeh
+#!/bin/bash
+yeh 
